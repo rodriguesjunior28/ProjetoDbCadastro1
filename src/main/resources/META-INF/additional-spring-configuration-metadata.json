@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "sprinp.datasource.username",
+    "type": "java.lang.String",
+    "description": "A description for 'sprinp.datasource.username'"
+  },
+  {
+    "name": "spring.jpa.hibernate.dll-auto",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.jpa.hibernate.dll-auto'"
+  }
+]}
